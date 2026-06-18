@@ -1,0 +1,6 @@
+{
+  "name": "Champions Legacy",
+  "description": "Assemble a dream football team using historical campaigns of European clubs and simulate the tournament to leave your legacy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
